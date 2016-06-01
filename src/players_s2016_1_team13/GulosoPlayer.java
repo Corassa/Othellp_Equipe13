@@ -18,7 +18,7 @@ public class GulosoPlayer extends AbstractPlayer {
         // TODO Auto-generated constructor stub
     }
 
-    @Override
+    @Override //TESTESTESEW
     public Casa jogar(int[][] tab) {
     	
         JogoOthello jogo = new JogoOthello();
